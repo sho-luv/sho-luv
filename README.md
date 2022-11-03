@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <h2>Sho-Luv</h2>
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=sho-luv&&count_private=true&show_icons=true&theme=dark" width="380">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=sho-luv&hide=contribs&count_private=true&show_icons=true&theme=dark" width="380">
 <p><em>10+ years penetration testing<br>
   I code from time to time, I hack things<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><img src="https://avatars.githubusercontent.com/u/1679089?s=15"> 
 </em></p>
