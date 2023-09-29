@@ -18,9 +18,17 @@ Here are some ideas to get you started:
 
 <h2>Sho-Luv</h2>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=sho-luv&hide=contribs&count_private=true&show_icons=true&theme=dark" width="380">
-<p><em>10+ years penetration testing<br>
+<p><em>15+ years penetration testing<br>
   I code from time to time, I hack things<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><img src="https://avatars.githubusercontent.com/u/1679089?s=15"> 
 </em></p>
+
+Check me out:<br>
+- <a rel="me" href="https://infosec.exchange/@sho_luv">Mastodon</a><br>
+- <a href="https://sholuv.net/">Website</a>
+- <a href="https://twitter.com/sho_luv">Twitter</a>
+- <a href="https://www.linkedin.com/in/leonjohnson/">LinkIn</a><br>
+
+
 
 
 [![Twitter: S3cur3Th1sSh1t](https://img.shields.io/twitter/follow/sho_luv?style=flat-square)](https://twitter.com/sho_luv)
